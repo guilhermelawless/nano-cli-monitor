@@ -1,5 +1,9 @@
 [
     {
+        "address": "nano_3betagfmasj5iqcayzzssba185wamgobois1xbfadcpqgz9r7e6a1zwztn5o",
+        "alias": "Genesis"
+    },
+    {
         "address": "nano_1beta1ayfkpj1tfbhi3e9ihkocjkqi6ms5e4xrbmbybqnkza1e5jrake8wai",
         "alias": "NF 1"
     },
@@ -96,3 +100,4 @@
         "alias": "cryptocode"
     }
 ]
+
