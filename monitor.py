@@ -61,4 +61,7 @@ while representatives:
         time.sleep(5)
     except KeyboardInterrupt:
         break
+    except Exception:
+        print("No node connected")
+        time.sleep(10)
 
